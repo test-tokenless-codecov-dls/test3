@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 4.3.0
+_src_path: https://github.com/hyperrealist/python-copier-template
+author_email: hiran.wijesinghe@diamond.ac.uk
+author_name: Hiran Wijesinghe
+description: test3
+distribution_name: test3
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: test-tokenless-codecov-dls
+package_name: test3
+pypi: false
+repo_name: test3
+strict_typing: true
+type_checker: pyright
